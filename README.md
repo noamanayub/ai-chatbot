@@ -1,4 +1,3 @@
-```markdown
 # AI Chatbot Project
 
 ## Overview
